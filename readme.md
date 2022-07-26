@@ -7,10 +7,10 @@
 
 Reach out to me directly through:
 
-<a href="mailto:shahzeb.naqvi12@gmail.com" target="_blank">
+<a href="mailto:sufiyakhanzada748@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shahzebnaqvi/" target="_blank">
+<a href="https://www.linkedin.com/in/sufiyan-khanzada-11b472135/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -31,8 +31,8 @@ Here's my tech stack I'm currently used to and prefer:
  
 ### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&theme=nord&hide=stars" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebnaqvi&layout=compact&theme=nord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Khanzada&theme=nord&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan-Khanzada&layout=compact&theme=nord" />
 
  ### Featured
  
@@ -41,7 +41,7 @@ Check out some projects below 👇
 https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
 
 <!--
-**shahzebnaqvi/shahzebnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sufiyan Khanzada/Sufiyan Khanzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
