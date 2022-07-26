@@ -1,4 +1,8 @@
-<h1> Hi There<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/raw/master/wave.gif" style="width:20%;></h1>
+<h1> Hi There
+<img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 <h2>I Am Sufiyan Khanzada</h2>
 
 <img src="98636-coding.gif" style="width:60%"/>
