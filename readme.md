@@ -41,9 +41,7 @@ Here's my tech stack I'm currently used to and prefer:
 
  ### Featured
  
-Check out some projects below 👇
 
-https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
 
 <!--
 **Sufiyan Khanzada/Sufiyan Khanzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
