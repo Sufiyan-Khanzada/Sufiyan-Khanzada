@@ -3,11 +3,13 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1>
-<h2>I Am Sufiyan Khanzada</h2>
-<center>
+
+Hello. Welcome to my Sufiyan Khanzada. 👋
+🔭 I’m currently working on Head Of Production 
+I'm Sufiyan, and I'd want to introduce myself to you. It's been a while, I've been developing my skills in this area. This is my favorite job, and I believe I'll be more successful here. Although I am not an expert in this sector, I believe the work I perform is fascinating and of high quality.
 <img src="
 109865-new-app-development-on-desktop.gif" style="width:60%"/>
-</center>
+
 ### Contact
 
 Reach out to me directly through:
