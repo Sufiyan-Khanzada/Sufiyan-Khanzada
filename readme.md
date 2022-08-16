@@ -4,9 +4,9 @@
          height="45"
          width="45" /></h1>
 <h2>I Am Sufiyan Khanzada</h2>
-
-<img src="6888-development-direction.gif" style="width:60%"/>
-
+<center>
+<img src="55383-web-development-animation.gif" style="width:60%"/>
+</center>
 ### Contact
 
 Reach out to me directly through:
