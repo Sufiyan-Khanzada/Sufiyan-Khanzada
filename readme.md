@@ -5,7 +5,7 @@
          width="45" /></h1>
 <h2>I Am Sufiyan Khanzada</h2>
 
-<img src="90497-software-development.gif" style="width:60%"/>
+<img src="6888-development-direction.gif" style="width:60%"/>
 
 ### Contact
 
