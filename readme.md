@@ -40,8 +40,8 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/laravel-02569B?style=for-the-badge&logo=laravel&logoColor=white" />
   
 <div>
- 
 ### Stats
+ <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Khanzada&theme=nord&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan-Khanzada&layout=compact&theme=nord" />
